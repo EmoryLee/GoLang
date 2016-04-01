@@ -20,4 +20,4 @@ The fantastic ORM library for Golang, aims to be developer friendly.
 
 ### [AOAS](https://github.com/aoas/server)
 
-Restful api server by William
+Restful api server by William Bao
